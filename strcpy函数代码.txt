@@ -9,3 +9,6 @@ char* StrCpy(char* src)
        dst[len]='\0';  
        return dst;
 }
+/**
+B19031931 龚维鑫
+**/
