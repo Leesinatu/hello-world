@@ -1,0 +1,5 @@
+﻿  MathClient.vcxproj -> C:\Users\22304\source\repos\MathClient\Debug\MathClient.exe
+  找不到文件 - MathLibrary.dll
+  复制了 0 个文件
+D:\VisualStudio\Install\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: 命令“xcopy /y /d "..\..\MathLibrary\Debug\MathLibrary.dll" "C:\Users\22304\source\repos\MathClient\Debug\"
+D:\VisualStudio\Install\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd”已退出，代码为 4。
